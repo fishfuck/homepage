@@ -1,20 +1,25 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-fishfuck-blue?logo=github)](https://github.com/fishfuck)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+I am currently pursuing the **Master’s degree in Artificial Intelligence** at the **School of Automation, Northwestern Polytechnical University**, under the supervision of **Professor Dingwen Zhang**.  
+My current research interests include **object detection** and **multi-modal fusion**.
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+---
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+### 📧 Email  
+`riyu020423@gmail.com`  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+---
 
-#### Research Interests  
-XX, XX, XX, XX.
+### 🎓 Education  
+**Northwestern Polytechnical University**  
+*Master of Artificial Intelligence* (2024 – Present)  
+
+
+---
+
+### 🔬 Research Interests  
+- Object Detection  
+- Multi-modal Fusion  
+- Computer Vision  
+- Deep Learning  
