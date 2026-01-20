@@ -15,6 +15,8 @@ My current research interests include **object detection** and **multi-modal fus
 **Northwestern Polytechnical University**  
 *Master of Artificial Intelligence* (2024 – Present)  
 
+**Guangxi University**  
+*Bachelor of Engineering in Computer Science and Technology*(2020-2024)
 
 ---
 
